@@ -1,0 +1,7 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+/* Bất kỳ style bổ sung nào để điều chỉnh slider cũng nên để ở đây */
+.sliderWrapper {
+  overflow: hidden;
+}
